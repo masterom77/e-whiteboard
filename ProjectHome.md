@@ -1,0 +1,1 @@
+E-whiteboard is composite Win Forms and WPF application which allows users to create, edit, and export canvases. This project was created specifically for Johnny Chung Lee's Wiimote whiteboard.
